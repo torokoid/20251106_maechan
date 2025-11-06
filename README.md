@@ -247,8 +247,11 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L3kDpanxBxU?si=uhtTLAypIHGJ1GhC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-<a href="https://youtube.com/shorts/IJ30ER-wj-M?feature=share" target="_blank"><img src="https://youtube.com/shorts/IJ30ER-wj-M?feature=share" alt="サンプル画像" class="responsive-media"></a>
-<a href="https://youtube.com/shorts/rF2975X6Lrg?feature=share" target="_blank"><img src="https://youtube.com/shorts/rF2975X6Lrg?feature=share" alt="サンプル画像" class="responsive-media"></a>
+<h2><span class="yellow">Click to see movie↓</span></h2>
+<a href="https://youtube.com/shorts/IJ30ER-wj-M?feature=share" target="_blank"><img src="20251106_001.png" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">Click to see movie↓</span></h2>
+<a href="https://youtube.com/shorts/rF2975X6Lrg?feature=share" target="_blank"><img src="20251106_002.png" alt="サンプル画像" class="responsive-media"></a>
     
     
 <div class="youtube-wrapper">
