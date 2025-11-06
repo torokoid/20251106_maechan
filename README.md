@@ -222,6 +222,13 @@ p.note { display: none; }
     
 <h2><span class="yellow">蝋燭灯して、盛り上がってます</span></h2>
 <a href="20251106_020.JPG" target="_blank"><img src="20251106_020.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251106_066.jpg" target="_blank"><img src="20251106_066.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251106_062.jpg" target="_blank"><img src="20251106_062.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251106_063.jpg" target="_blank"><img src="20251106_063.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251106_064.jpg" target="_blank"><img src="20251106_064.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251106_065.jpg" target="_blank"><img src="20251106_065.jpg" alt="サンプル画像" class="responsive-media"></a>
+
+
 <a href="20251106_021.JPG" target="_blank"><img src="20251106_021.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">ミャンマーとの国境に続く山々にも光が見えます</span></h2>
