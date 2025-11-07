@@ -173,7 +173,7 @@ p.note { display: none; }
 <h2><span class="yellow">国道沿い入り口のモニュメントの横の写真が代わってます</span></h2>
 <a href="20251106_003.JPG" target="_blank"><img src="20251106_003.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">シリキット王太后陛下の写真になってました</span></h2>
+<h2><span class="yellow">故シリキット王太后陛下の写真になってました</span></h2>
 <a href="20251106_004.JPG" target="_blank"><img src="20251106_004.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">Lotus`s入り口に洒落た屋台バイクがあったのでパチリ！、運転手さんが横で見てて微笑んでくれました</span></h2>
